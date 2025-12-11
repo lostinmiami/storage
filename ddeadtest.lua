@@ -6,7 +6,7 @@ local settings = {
 
 local drawing = loadstring(game:HttpGet("https://raw.githubusercontent.com/lostinmiami/storage/refs/heads/main/extension.lua"))();
 local tween = loadstring(game:HttpGet("https://raw.githubusercontent.com/lostinmiami/storage/refs/heads/main/Tweenn.lua"))()
-local bxor = loadstring(game:HttpGet('https://github.com/GhostDuckyy/GhostDuckyy/blob/main/Tool/bxor.lua?raw=true'))()
+local bxor = loadstring(game:HttpGet('https://raw.githubusercontent.com/lostinmiami/storage/refs/heads/main/bxor.lua'))()
 
 -- // UI LIBRARY
 if not isfolder(settings.folder_name) then
