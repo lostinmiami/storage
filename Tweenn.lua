@@ -1,6 +1,3 @@
--- TWEEN SCRIPT
-
-
 -- custom tween
 
 local Signal = loadstring(game:HttpGet("https://raw.githubusercontent.com/lostinmiami/storage/refs/heads/main/signal.lua"))()
